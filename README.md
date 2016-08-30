@@ -69,6 +69,8 @@ separately. So I would have:
 
 ----
 
-Copyright (c) 2015 David O'Trakoun <me@davidosomething.com>
 MIT Licensed
+
+Copyright (c) 2015 David O'Trakoun <me@davidosomething.com>
+
 
